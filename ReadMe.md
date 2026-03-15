@@ -1,6 +1,5 @@
 # About Me:
 I’m currently working on : My 2nd year of engineering at ESTIA, specializing in Digital Design & Innovation.
-
 <br>I’m looking for help with : Advanced Data Systems and mastering complex architectures for my upcoming M2 MBDS.
 <br>Ask me about : Embedded systems (Arduino), PHP/JavaScript development, or how it feels to be trilingual in FR, ES, and EN.
 <br>Fun fact : I'm a huge Formula 1 and sports fan who loves to compete and constantly improve.
