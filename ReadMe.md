@@ -1,10 +1,8 @@
 # About Me:
 I’m currently working on : My 2nd year of engineering at ESTIA, specializing in Digital Design & Innovation.
-<br>I’m looking to collaborate on : Projects involving Big Data, Data Science, or Web/Mobile development.
-<br>I’m looking for help with : Advanced Data Systems and mastering complex architectures for my upcoming M2 MBDS.
-<br>I’m currently learning : Deepening my skills in Python, Java, and SQL for Data-driven applications.
-<br>Ask me about : Embedded systems (Arduino), PHP/JavaScript development, or how it feels to be trilingual in FR, ES, and EN.
 
+<br>I’m looking for help with : Advanced Data Systems and mastering complex architectures for my upcoming M2 MBDS.
+<br>Ask me about : Embedded systems (Arduino), PHP/JavaScript development, or how it feels to be trilingual in FR, ES, and EN.
 <br>Fun fact : I'm a huge Formula 1 and sports fan who loves to compete and constantly improve.
 
 
