@@ -26,7 +26,6 @@
 
 # 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sam-ctd&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
   <img src="https://streak-stats.demolab.com/?user=sam-ctd&theme=merko&hide_border=false" alt="Streak" />
 </p>
 
