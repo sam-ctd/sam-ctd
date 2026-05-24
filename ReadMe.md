@@ -8,13 +8,13 @@ I’m currently working on : My 2nd year of engineering at ESTIA, specializing i
 ## 🌐 Socials:
 <div id="badges" align="center">
    <a href="https://linkedin.com/in/samuel-chatard" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge">
+     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn badge">
    </a>
    <a href="https://instagram.com/sam_ctd" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram badge">
+     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram badge">
    </a>
    <a href="mailto:samuel.chatard@etu.estia.fr">
-     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge">
+     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge">
    </a>
 </div>
 
