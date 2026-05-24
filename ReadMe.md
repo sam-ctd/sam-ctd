@@ -26,8 +26,13 @@
 
 # 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sam-ctd&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sam-ctd&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sam-ctd&theme=merko&hide_border=false" alt="Streak" />
 </p>
 
+
 ### 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=sam-ctd&theme=react-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=sam-ctd&theme=merko)
+
+
+
