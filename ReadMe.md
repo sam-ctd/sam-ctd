@@ -2,8 +2,6 @@
 
 # Samuel Chatard
 
-**Data & Software Engineering student · Go · React · Python · ESTIA**
-
 Seeking a **6-month end-of-studies internship** in Data & Software Development.
 
 </div>
@@ -52,6 +50,10 @@ Technologies I use across internships, coursework, and personal practice.
 
 ## Find me online
 
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sam_ctd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-chatard) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.chatard@etu.estia.fr)
 
 Ciboure, France
+
+</div>
