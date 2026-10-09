@@ -2,6 +2,8 @@
 
 # Samuel Chatard
 
+**Data & Software Engineering student · ESTIA**
+
 Seeking a **6-month end-of-studies internship** in Data & Software Development.
 
 </div>
